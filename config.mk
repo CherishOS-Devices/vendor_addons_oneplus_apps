@@ -1,4 +1,5 @@
 PRODUCT_PACKAGES += \
+    OnePlusScreenRecorder \
     OnePlusGallery
 
 PRODUCT_COPY_FILES += \
